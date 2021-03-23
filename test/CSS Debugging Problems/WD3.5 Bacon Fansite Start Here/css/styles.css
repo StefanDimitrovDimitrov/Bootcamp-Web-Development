@@ -1,0 +1,37 @@
+/***********TAG Selectors***************/
+
+body{
+  background-color: white;
+}
+
+
+h1{
+  color: red;
+  font-size:  200px;
+}
+/*
+img{
+  background-color: red;
+}
+*/
+/***********Class Selectors***************/
+
+.becon {
+  background-color: green;
+}
+
+.pepper{
+  background-color: red;
+}
+
+/***********id Selectors************overwrite***/
+
+#tool{
+  background-color: purple;
+}
+
+/***********hover***************/
+
+img:hover{
+  background-color: gold;
+}
