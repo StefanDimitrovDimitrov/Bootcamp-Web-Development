@@ -4,7 +4,7 @@ body{
   /*font-family: 'Architects Daughter', cursive;*/
     /*font-family: 'Shadows Into Light', cursive;*/
 /*font-family: 'Sofia', cursive;*/
-  font-family: 'Bad Script', cursive;
+  font-family: 'Philosopher', sans-serif;
   background-color: #E8E8E8;
   color:#4C4C4C;
 }
@@ -30,7 +30,7 @@ h2{
 }
 
 h3{
-font-family: 'Tomorrow', sans-serif;
+font-family: 'Philosopher', sans-serif;
 }
 .top-container{
   background-color: #a37eba;
@@ -40,7 +40,7 @@ font-family: 'Tomorrow', sans-serif;
 
 
 }
-#programmer{
+.programmer{
   color:#e5df88
 }
 .self{
@@ -162,14 +162,13 @@ footer {
   padding: 50px 0 20px;
   left: 0;
   bottom: 0;
-  width: 100%;
   background-color: #A37EBA;
   color: #E5DF88;
   text-align: center;
 }
 
 .contact-message{
-  width:40%
+  width:40%;
   margin: 40% auto 60%;
 }
 
